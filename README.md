@@ -1,4 +1,12 @@
 # LAB_infrastructure
+
+windows 7
+
+```
+wget https://archive.org/download/win7-pro-sp1-english-coem/Win7_Pro_SP1_English_COEM_x64.iso
+```
+
+
 windows 10
 ```
 curl 'https://software-download.microsoft.com/db/Win10_21H2_EnglishInternational_x64.iso?t=8246eeb2-832e-4e15-bc14-9718b3b46337&e=1643729782&h=a13f745e1fccfde8c2689aba840e9336' \
